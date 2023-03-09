@@ -1,1 +1,2 @@
-VimCrypt~03!‚'Π―δaΆNΑΫK\	ΕΔ­/Φιε.[²ΨΔRi»ΘΉ)όUΜ5
+#!/bin/bash
+chomd -R ugo+X .
